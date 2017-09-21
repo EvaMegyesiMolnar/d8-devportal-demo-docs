@@ -1,4 +1,4 @@
-# How facial recognition works
+Cats are cute.
 
 ## What is facial recognition
 
